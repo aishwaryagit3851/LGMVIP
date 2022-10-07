@@ -171,7 +171,7 @@
       
     </div>
     <div class="center">
-    <a href="Result.html" ><button style="width:15%;padding: 20px 30px 20px 30px;">Log out</button></a>
+    <a href="index.html" ><button style="width:15%;padding: 20px 30px 20px 30px;">Log out</button></a>
 </div>
   
     </body>
