@@ -155,7 +155,7 @@ if(isset($_POST['save'])){
     </div>
 </div>
 <div class="footer1">
-<a href="Result.html">Main Page</a>
+<a href="index.html">Main Page</a>
 </div>
 <script>
     function val(){
